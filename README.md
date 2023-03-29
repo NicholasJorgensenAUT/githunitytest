@@ -14,7 +14,7 @@ Development Team Member:
 - Rainier Jared Botor
 
 Product:
-- 2d platformer game
+- 2d platformer/ metroidvania style game
 
 Tools:
 - Unity
